@@ -1,1 +1,1 @@
-# Graphs
+This is a full graphic calculator that creates a .png file with the graph made from the function given.
